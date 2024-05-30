@@ -5,4 +5,4 @@ If you could go anywhere in the world for vacation, where would it be?
 Mount Kilimanjaro
 
 If you could have any super power, what would it be (and why that power)?
-Time control, it would be great to be many places doing many things at the same "time"
+Time control, it would be great to be many places doing many things at the same "time"...Multi-threading?
